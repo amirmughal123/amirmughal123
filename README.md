@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amirmughal123
 - 👀 I’m interested in JS Work(React, React-Native, Node)
 - 🌱 I’m currently learning JS as learning is always in Progress thing.
-- 💞️ I’m looking to collaborate on Hybird and Web apps, I'm working on them from last 5 years.
+- 💞️ I’m looking to collaborate on Hybird and Web apps, I'm working on them from last 7 years.
 - 📫 You can email me to get in touch "amirmughal2009@gmail.com"
 
 <!---
